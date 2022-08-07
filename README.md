@@ -1,0 +1,2 @@
+# Cabin_Smart_Thermostat
+I used a system of servo motors, Arduino Nanos, temperature sensors, and bluetooth modules to create a smart thermostat system for electric baseboard heating. Electric base boards have individual dials per heater so it makes it incredibly hard to control the temperature all at once. By connecting servos to each dial and making a network of Bluetooth low energy devices, one is able to control the temperature of all the base boards simultaneously from a smartphone.
